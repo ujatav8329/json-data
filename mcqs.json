@@ -1,0 +1,170 @@
+[
+    {
+        "Question": "What is the primary function of the CPU in a computer system?",
+        "OptionA": "Storing data",
+        "OptionB": "Processing data",
+        "OptionC": "Displaying output",
+        "OptionD": "Accepting input",
+        "CorrectAnswer": " Processing data"
+    },
+    {
+        "Question": "Which component is responsible for storing data permanently in a computer system?",
+        "OptionA": "RAM",
+        "OptionB": "CPU",
+        "OptionC": "Hard Disk Drive",
+        "OptionD": "Cache Memory",
+        "CorrectAnswer": " Hard Disk Drive"
+    },
+    {
+        "Question": "What is the unit of measurement for computer memory that is larger than a kilobyte?",
+        "OptionA": "Megabyte",
+        "OptionB": "Gigabyte",
+        "OptionC": "Terabyte",
+        "OptionD": "Petabyte",
+        "CorrectAnswer": " Megabyte"
+    },
+    {
+        "Question": "Which type of memory is the fastest among primary, cache, and secondary memory?",
+        "OptionA": "Primary Memory",
+        "OptionB": "Cache Memory",
+        "OptionC": "Secondary Memory",
+        "OptionD": "They have the same speed",
+        "CorrectAnswer": " Cache Memory"
+    },
+    {
+        "Question": "What is the smallest unit of memory in a computer system?",
+        "OptionA": "Bit",
+        "OptionB": "Byte",
+        "OptionC": "Kilobyte",
+        "OptionD": "Megabyte",
+        "CorrectAnswer": " Bit"
+    },
+    {
+        "Question": "Which of the following is an input device?",
+        "OptionA": "Monitor",
+        "OptionB": "Printer",
+        "OptionC": "Keyboard",
+        "OptionD": "Speaker",
+        "CorrectAnswer": " Keyboard"
+    },
+    {
+        "Question": "What does the acronym CPU stand for?",
+        "OptionA": "Central Processing Unit",
+        "OptionB": "Computer Processing Unit",
+        "OptionC": "Central Processor Unit",
+        "OptionD": "Computer Processor Unit",
+        "CorrectAnswer": " Central Processing Unit"
+    },
+    {
+        "Question": "Which of the following is considered a secondary memory device?",
+        "OptionA": "RAM",
+        "OptionB": "Cache Memory",
+        "OptionC": "Hard Disk Drive",
+        "OptionD": "CPU",
+        "CorrectAnswer": " Hard Disk Drive"
+    },
+    {
+        "Question": "Why is JSX used in React?",
+        "OptionA": "Readability",
+        "OptionB": "Mutability",
+        "OptionC": "Integration of JavaScript",
+        "OptionD": "Conciseness",
+        "CorrectAnswer": " Integration of JavaScript"
+    },
+    {
+        "Question": "Can you explain the concept of virtual DOM in React and why it's used?",
+        "OptionA": "Virtual DOM",
+        "OptionB": "Real DOM",
+        "OptionC": "Shadow DOM",
+        "OptionD": "JSX",
+        "CorrectAnswer": " Virtual DOM"
+    },
+    {
+        "Question": "In React, what does the term \"event handling\" refer to?",
+        "OptionA": "Bitwise operations",
+        "OptionB": "Object creation",
+        "OptionC": "Event handling",
+        "OptionD": "Looping",
+        "CorrectAnswer": " Event handling"
+    },
+    {
+        "Question": "What is the primary difference between props and state in React?",
+        "OptionA": "Props are immutable",
+        "OptionB": "State is mutable",
+        "OptionC": "Props are used for communication",
+        "OptionD": "State is used for dynamic content",
+        "CorrectAnswer": " Props are used for communication"
+    },
+    {
+        "Question": "In React, what does the term \"component lifecycle\" refer to?",
+        "OptionA": "Event handling",
+        "OptionB": "Data manipulation",
+        "OptionC": "State management",
+        "OptionD": "Component rendering",
+        "CorrectAnswer": " State management"
+    },
+    {
+        "Question": "What is the purpose of the componentDidMount lifecycle method in React?",
+        "OptionA": "Rendering",
+        "OptionB": "Constructor",
+        "OptionC": "componentDidMount",
+        "OptionD": "componentWillUnmount",
+        "CorrectAnswer": " Rendering"
+    },
+    {
+        "Question": "In React, what type of component is a functional component?",
+        "OptionA": "Stateful component",
+        "OptionB": "Stateless component",
+        "OptionC": "Functional component",
+        "OptionD": "JSX component",
+        "CorrectAnswer": " Functional component"
+    },
+    {
+        "Question": "What does the term \"JSX\" stand for in the context of React?",
+        "OptionA": "Event binding",
+        "OptionB": "List rendering",
+        "OptionC": "State lifting",
+        "OptionD": "Prop drilling",
+        "CorrectAnswer": " List rendering"
+    },
+    {
+        "Question": "Which JavaScript library is commonly used for building user interfaces in React?",
+        "OptionA": "React Native",
+        "OptionB": "Redux",
+        "OptionC": "Angular",
+        "OptionD": "Vue.js",
+        "CorrectAnswer": " React Native"
+    },
+    {
+        "Question": "What is a higher-order component in React?",
+        "OptionA": "Higher-order component",
+        "OptionB": "Higher-order function",
+        "OptionC": "Higher-order array",
+        "OptionD": "Higher-order element",
+        "CorrectAnswer": " Higher-order component"
+    },
+    {
+        "Question": "In React, which method is used for optimization and prevents unnecessary re-renders of a component?",
+        "OptionA": "ComponentDidUpdate",
+        "OptionB": "ComponentShouldUpdate",
+        "OptionC": "PureComponent",
+        "OptionD": "shouldComponentUpdate",
+        "CorrectAnswer": " shouldComponentUpdate"
+    },
+    {
+        "Question": "What is JSX in the context of React?",
+        "OptionA": "JSX",
+        "OptionB": "XML",
+        "OptionC": "HTML",
+        "OptionD": "JavaScript",
+        "CorrectAnswer": " JSX"
+    },
+    {
+        "Question": "What is the role of the Hard Disk Drive (HDD) in a computer system?",
+        "OptionA": "Storing data permanently",
+        "OptionB": "Providing temporary storage",
+        "OptionC": "Controlling the boot process",
+        "OptionD": "Managing hardware resources",
+        "CorrectAnswer": " Storing data permanently"
+    }
+]
